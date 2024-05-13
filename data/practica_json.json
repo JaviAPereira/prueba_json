@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Javier",
+        "apellido": "Pereira",
+        "ciudad": "Lanus",
+        "numero_de_telefono": 1137728244,
+        "foto": "img/1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Javier",
+        "apellido": "Pereira",
+        "ciudad": "Lanus",
+        "numero_de_telefono": 1137728244,
+        "foto": "img/2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Javier",
+        "apellido": "Pereira",
+        "ciudad": "Lanus",
+        "numero_de_telefono": 1137728244,
+        "foto": "img/3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Javier",
+        "apellido": "Pereira",
+        "ciudad": "Lanus",
+        "numero_de_telefono": 1137728244,
+        "foto": "img/4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Javier",
+        "apellido": "Pereira",
+        "ciudad": "Lanus",
+        "numero_de_telefono": 1137728244,
+        "foto": "img/5.jpg"
+    }
+]
