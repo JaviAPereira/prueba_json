@@ -1,0 +1,26 @@
+/* Estilos para las tarjetas */
+.tarjeta {
+    width: 300px;
+    background-color: #E6B0AA;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px; /* Espacio entre tarjetas */
+  }
+  
+  /* Estilos para los párrafos dentro de las tarjetas */
+  .tarjeta p {
+    margin: 5px 0; /* Espacio entre los párrafos */
+  }
+  
+  /* Estilos para las imágenes dentro de las tarjetas */
+  .tarjeta img {
+    width: 40px;
+    border-radius: 50%; /* Hacer las imágenes redondas */
+    margin-top: 10px; /* Espacio superior de la imagen */
+  }
+  #user-data {
+    display: flex; /* Convertir el contenedor en un contenedor flexible */
+    flex-wrap: wrap; /* Permitir que los elementos se envuelvan en filas adicionales */
+    justify-content: space-around; /* Distribuir los elementos de manera uniforme a lo largo del contenedor */
+  }

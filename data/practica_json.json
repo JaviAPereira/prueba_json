@@ -38,5 +38,13 @@
         "ciudad": "Lanus",
         "numero_de_telefono": 1137728244,
         "foto": "img/5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Javier",
+        "apellido": "Pereira",
+        "ciudad": "Lanus",
+        "numero_de_telefono": 1137728244,
+        "foto": "img/5.jpg"
     }
 ]

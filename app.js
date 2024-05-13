@@ -14,7 +14,7 @@ function showData(data){
     userData.innerHTML= ''
     data.forEach(usuario => {
         userData.innerHTML += `
-          <div>
+          <div class="tarjeta">
             <p>ID: ${usuario.id}</p>
             <p>Nombre: ${usuario.nombre}</p>
             <p>Apellido: ${usuario.apellido}</p>
